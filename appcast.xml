@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Chirpee</title>
+        <item>
+            <title>0.2</title>
+            <pubDate>Tue, 24 Nov 2026 10:53:22 +1100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Chirpee now updates itself. The second time you open it, it asks whether to check for updates once a day; you can also check by hand, or turn checks off, in Settings › General.
+- Runs on macOS 14 (Sonoma) and macOS 15 (Sequoia), not just the latest macOS.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/dubfonik/chirpee-releases/main/Chirpee-0.2-2.zip" length="12878106" type="application/octet-stream" sparkle:edSignature="oGU/H4l95grMBXjTm07XfQslJfWFsujZ6iXN3hU3gvMOLc0YJtVR9URsrpOxrfgkMYs85FsHRY97t5G4hhVSCQ=="/>
+        </item>
+    </channel>
+</rss>

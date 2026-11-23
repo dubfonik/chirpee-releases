@@ -1,0 +1,2 @@
+- Chirpee now updates itself. The second time you open it, it asks whether to check for updates once a day; you can also check by hand, or turn checks off, in Settings › General.
+- Runs on macOS 14 (Sonoma) and macOS 15 (Sequoia), not just the latest macOS.
