@@ -1,0 +1,1 @@
+- Chirpee has its own app icon: a bearded bluebird singing into a microphone, in Finder, Settings and the update window.

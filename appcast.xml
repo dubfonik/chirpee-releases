@@ -4,6 +4,21 @@
         <title>Chirpee</title>
         <item>
             <title>0.3</title>
+            <pubDate>Tue, 24 Nov 2026 13:46:16 +1100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[- Chirpee has its own app icon: a bearded bluebird singing into a microphone, in Finder, Settings and the update window.
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/dubfonik/chirpee-releases/main/Chirpee-0.3-4.zip" length="13212512" type="application/octet-stream" sparkle:edSignature="Lgkv+cjy+yK6W7kJgDJqHNEhx5I85mufVz6w5AQ9c1dvDurUQQoPw5dYyOFwZZ2/KNCmvvdgDzHZ2KfxotVgAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dubfonik/chirpee-releases/main/Chirpee4-3.delta" sparkle:deltaFrom="3" length="601446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="skwYxmZLcCD2PWBMxaQe4LbHKsnNZ50Ws9E1anGxrb/0HJaTUpHiPhr3G2CjqolPhiGhZcmjbBcTgFhLP1r9Cg=="/>
+                <enclosure url="https://raw.githubusercontent.com/dubfonik/chirpee-releases/main/Chirpee4-2.delta" sparkle:deltaFrom="2" length="1000834" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OxJJYYFohtkxV5WpTWqKqi4Twk1n1zJFE2+uwpcZHe+lNMb7WVMwPexDDjDazztJ7Gqmuaso/DW1nslPvkFeDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.3</title>
             <pubDate>Tue, 24 Nov 2026 11:45:45 +1100</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
