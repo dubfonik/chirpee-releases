@@ -1,0 +1,2 @@
+- Settings › Cleanup shows the prompt Chirpee proofreads your dictation with. Choose Custom to write your own, and switch back to Default at any time without losing it.
+- New Spelling option in Settings › Cleanup: choose Australian and Cleanup writes colour, organise, centre and travelled. It starts as Australian on a Mac set to Australia.
